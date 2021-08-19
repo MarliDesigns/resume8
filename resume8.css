@@ -11,9 +11,22 @@ header{
        overflow: unset;
    }
 
-   #headshot {
+   #image_small {
     border-radius: 50%;
-  }
+    height: 100px;
+    width: 100px;
+   }
+
+   #image_large{
+    border-radius: 50%;
+    height: 200px;
+
+   }
+
+   #profile_image{
+    border-radius: 50%;
+    height: 200px;
+   }
 
    #sidebar{
        width: 30%;
